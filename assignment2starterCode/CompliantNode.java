@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 import java.util.Set;
+import java.util.HashSet;
 
 /* CompliantNode refers to a node that follows the rules (not malicious)*/
 public class CompliantNode implements Node {
